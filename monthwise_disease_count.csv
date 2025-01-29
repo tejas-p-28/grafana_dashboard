@@ -1,0 +1,159 @@
+kiosk,city,state,geohash,disease_month,disease_list,disease_count
+kiosk 123,Pune,Maharashtra,tek92es,December 2024,DIASTEMA,9
+kiosk 123,Pune,Maharashtra,tek92es,December 2024,DEFECTIVE / PARTIAL TREATMENT,1
+kiosk 123,Pune,Maharashtra,tek92es,December 2024,DEEP CARIES,1
+kiosk 123,Pune,Maharashtra,tek92es,December 2024,MALALIGNED,11
+kiosk 123,Pune,Maharashtra,tek92es,December 2024,CALCULUS,13
+kiosk 123,Pune,Maharashtra,tek92es,December 2024,CROWNS,11
+kiosk 123,Pune,Maharashtra,tek92es,December 2024,STAINS,50
+kiosk 123,Pune,Maharashtra,tek92es,December 2024,FRACTURE,3
+kiosk 123,Pune,Maharashtra,tek92es,December 2024,PIT AND FISSURE CARIES,18
+kiosk 123,Pune,Maharashtra,tek92es,December 2024,TOOTH_GAP,3
+kiosk 123,Pune,Maharashtra,tek92es,December 2024,ATTRITION,5
+kiosk 123,Pune,Maharashtra,tek92es,December 2024,FILLING,6
+kiosk 123,Pune,Maharashtra,tek92es,November 2024,FILLING,59
+kiosk 123,Pune,Maharashtra,tek92es,November 2024,APPLIANCES,2
+kiosk 123,Pune,Maharashtra,tek92es,November 2024,PIT AND FISSURE CARIES,200
+kiosk 123,Pune,Maharashtra,tek92es,November 2024,MISSING TOOTH,2
+kiosk 123,Pune,Maharashtra,tek92es,November 2024,DEFECTIVE / PARTIAL TREATMENT,7
+kiosk 123,Pune,Maharashtra,tek92es,November 2024,CROWNS,13
+kiosk 123,Pune,Maharashtra,tek92es,November 2024,ROOT STUMP,2
+kiosk 123,Pune,Maharashtra,tek92es,November 2024,TOOTH_GAP,56
+kiosk 123,Pune,Maharashtra,tek92es,November 2024,FRACTURE,148
+kiosk 123,Pune,Maharashtra,tek92es,November 2024,GROSSLY DECAYED,4
+kiosk 123,Pune,Maharashtra,tek92es,November 2024,STAINS,604
+kiosk 123,Pune,Maharashtra,tek92es,November 2024,MALALIGNED,478
+kiosk 123,Pune,Maharashtra,tek92es,November 2024,DIASTEMA,238
+kiosk 123,Pune,Maharashtra,tek92es,November 2024,ATTRITION,211
+kiosk 123,Pune,Maharashtra,tek92es,November 2024,DEEP CARIES,19
+kiosk 123,Pune,Maharashtra,tek92es,November 2024,IMPACTED 3RD MOLAR / PERICORONITIS,40
+kiosk 123,Pune,Maharashtra,tek92es,November 2024,CALCULUS,257
+kiosk 123,Pune,Maharashtra,tek92es,October 2024,DIASTEMA,157
+kiosk 123,Pune,Maharashtra,tek92es,October 2024,MALALIGNED,460
+kiosk 123,Pune,Maharashtra,tek92es,October 2024,ROOT STUMP,10
+kiosk 123,Pune,Maharashtra,tek92es,October 2024,GROSSLY DECAYED,7
+kiosk 123,Pune,Maharashtra,tek92es,October 2024,INFLAMMED / RED GUMS,180
+kiosk 123,Pune,Maharashtra,tek92es,October 2024,TOOTH_GAP,47
+kiosk 123,Pune,Maharashtra,tek92es,October 2024,BRACES,3
+kiosk 123,Pune,Maharashtra,tek92es,October 2024,IMPACTED 3RD MOLAR / PERICORONITIS,38
+kiosk 123,Pune,Maharashtra,tek92es,October 2024,DEFECTIVE / PARTIAL TREATMENT,21
+kiosk 123,Pune,Maharashtra,tek92es,October 2024,PIT AND FISSURE CARIES,228
+kiosk 123,Pune,Maharashtra,tek92es,October 2024,FILLING,136
+kiosk 123,Pune,Maharashtra,tek92es,October 2024,DEEP CARIES,54
+kiosk 123,Pune,Maharashtra,tek92es,October 2024,ATTRITION,317
+kiosk 123,Pune,Maharashtra,tek92es,October 2024,RECEDED GUMS,73
+kiosk 123,Pune,Maharashtra,tek92es,October 2024,INFLAMMED / RED GUM,1
+kiosk 123,Pune,Maharashtra,tek92es,October 2024,CROWNS,51
+kiosk 123,Pune,Maharashtra,tek92es,October 2024,CALCULUS,164
+kiosk 123,Pune,Maharashtra,tek92es,October 2024,STAINS,624
+kiosk 123,Pune,Maharashtra,tek92es,October 2024,FRACTURE,72
+kiosk 123,Pune,Maharashtra,tek92es,October 2024,MISSING TOOTH,13
+kiosk 123,Pune,Maharashtra,tek92es,September 2024,CALCULUS,295
+kiosk 123,Pune,Maharashtra,tek92es,September 2024,DEEP CARIES,50
+kiosk 123,Pune,Maharashtra,tek92es,September 2024,CROWNS,27
+kiosk 123,Pune,Maharashtra,tek92es,September 2024,PIT AND FISSURE CARIES,382
+kiosk 123,Pune,Maharashtra,tek92es,September 2024,FILLING,229
+kiosk 123,Pune,Maharashtra,tek92es,September 2024,TOOTH_GAP,53
+kiosk 123,Pune,Maharashtra,tek92es,September 2024,IMPACTED 3RD MOLAR / PERICORONITIS,43
+kiosk 123,Pune,Maharashtra,tek92es,September 2024,ATTRITION,282
+kiosk 123,Pune,Maharashtra,tek92es,September 2024,FRACTURE,131
+kiosk 123,Pune,Maharashtra,tek92es,September 2024,MALALIGNED,562
+kiosk 123,Pune,Maharashtra,tek92es,September 2024,STAINS,560
+kiosk 123,Pune,Maharashtra,tek92es,September 2024,MISSING TOOTH,3
+kiosk 123,Pune,Maharashtra,tek92es,September 2024,DIASTEMA,224
+kiosk 123,Pune,Maharashtra,tek92es,August 2024,PIT AND FISSURE CARIES,438
+kiosk 123,Pune,Maharashtra,tek92es,August 2024,TOOTH_GAP,16
+kiosk 123,Pune,Maharashtra,tek92es,August 2024,FRACTURE,32
+kiosk 123,Pune,Maharashtra,tek92es,August 2024,CROWNS,10
+kiosk 123,Pune,Maharashtra,tek92es,August 2024,IMPACTED 3RD MOLAR / PERICORONITIS,13
+kiosk 123,Pune,Maharashtra,tek92es,August 2024,STAINS,665
+kiosk 123,Pune,Maharashtra,tek92es,August 2024,CALCULUS,425
+kiosk 123,Pune,Maharashtra,tek92es,August 2024,MALALIGNED,353
+kiosk 123,Pune,Maharashtra,tek92es,August 2024,ROOT STUMP,2
+kiosk 123,Pune,Maharashtra,tek92es,August 2024,FILLING,209
+kiosk 123,Pune,Maharashtra,tek92es,August 2024,DIASTEMA,235
+kiosk 123,Pune,Maharashtra,tek92es,August 2024,ATTRITION,254
+kiosk 123,Pune,Maharashtra,tek92es,August 2024,DEEP CARIES,10
+kiosk 123,Pune,Maharashtra,tek92es,July 2024,TOOTH_GAP,12
+kiosk 123,Pune,Maharashtra,tek92es,July 2024,CROWNS,11
+kiosk 123,Pune,Maharashtra,tek92es,July 2024,FILLING,38
+kiosk 123,Pune,Maharashtra,tek92es,July 2024,MISSING TOOTH,2
+kiosk 123,Pune,Maharashtra,tek92es,July 2024,MALALIGNED,121
+kiosk 123,Pune,Maharashtra,tek92es,July 2024,ATTRITION,59
+kiosk 123,Pune,Maharashtra,tek92es,July 2024,ROOT STUMP,1
+kiosk 123,Pune,Maharashtra,tek92es,July 2024,FRACTURE,31
+kiosk 123,Pune,Maharashtra,tek92es,July 2024,STAINS,129
+kiosk 123,Pune,Maharashtra,tek92es,July 2024,CALCULUS,73
+kiosk 123,Pune,Maharashtra,tek92es,July 2024,IMPACTED 3RD MOLAR / PERICORONITIS,12
+kiosk 123,Pune,Maharashtra,tek92es,July 2024,DEEP CARIES,10
+kiosk 123,Pune,Maharashtra,tek92es,July 2024,PIT AND FISSURE CARIES,84
+kiosk 123,Pune,Maharashtra,tek92es,July 2024,DIASTEMA,67
+kiosk 123,Pune,Maharashtra,tek92es,June 2024,CROWNS,1
+kiosk 123,Pune,Maharashtra,tek92es,June 2024,MALALIGNED,7
+kiosk 123,Pune,Maharashtra,tek92es,June 2024,FRACTURE,4
+kiosk 123,Pune,Maharashtra,tek92es,June 2024,CALCULUS,5
+kiosk 123,Pune,Maharashtra,tek92es,June 2024,PIT AND FISSURE CARIES,2
+kiosk 123,Pune,Maharashtra,tek92es,June 2024,DIASTEMA,3
+kiosk 123,Pune,Maharashtra,tek92es,June 2024,STAINS,4
+kiosk 123,Pune,Maharashtra,tek92es,June 2024,ATTRITION,1
+kiosk 123,Pune,Maharashtra,tek92es,May 2024,ATTRITION,186
+kiosk 123,Pune,Maharashtra,tek92es,May 2024,STAINS,280
+kiosk 123,Pune,Maharashtra,tek92es,May 2024,DEEP CARIES,14
+kiosk 123,Pune,Maharashtra,tek92es,May 2024,TOOTH_GAP,40
+kiosk 123,Pune,Maharashtra,tek92es,May 2024,IMPACTED 3RD MOLAR / PERICORONITIS,39
+kiosk 123,Pune,Maharashtra,tek92es,May 2024,CALCULUS,58
+kiosk 123,Pune,Maharashtra,tek92es,May 2024,PIT AND FISSURE CARIES,277
+kiosk 123,Pune,Maharashtra,tek92es,May 2024,CROWNS,29
+kiosk 123,Pune,Maharashtra,tek92es,May 2024,DIASTEMA,87
+kiosk 123,Pune,Maharashtra,tek92es,May 2024,FRACTURE,93
+kiosk 123,Pune,Maharashtra,tek92es,May 2024,MALALIGNED,330
+kiosk 123,Pune,Maharashtra,tek92es,May 2024,FILLING,73
+kiosk 123,Pune,Maharashtra,tek92es,April 2024,FILLINGS,14
+kiosk 123,Pune,Maharashtra,tek92es,April 2024,MISSING TOOTH,1
+kiosk 123,Pune,Maharashtra,tek92es,April 2024,MALALIGNED,97
+kiosk 123,Pune,Maharashtra,tek92es,April 2024,CROWNS,31
+kiosk 123,Pune,Maharashtra,tek92es,April 2024,PIT AND FISSURE CARIES,88
+kiosk 123,Pune,Maharashtra,tek92es,April 2024,DIASTEMA,4
+kiosk 123,Pune,Maharashtra,tek92es,April 2024,FILLING,3
+kiosk 123,Pune,Maharashtra,tek92es,April 2024,FRACTURE,11
+kiosk 123,Pune,Maharashtra,tek92es,April 2024,IMPACTED 3RD MOLAR / PERICORONITIS,1
+kiosk 123,Pune,Maharashtra,tek92es,April 2024,STAINS,85
+kiosk 123,Pune,Maharashtra,tek92es,April 2024,ATTRITION,57
+kiosk 123,Pune,Maharashtra,tek92es,April 2024,TOOTH_GAP,2
+kiosk 123,Pune,Maharashtra,tek92es,April 2024,CALCULUS,6
+kiosk 123,Pune,Maharashtra,tek92es,March 2024,MALALIGNED,6
+kiosk 123,Pune,Maharashtra,tek92es,March 2024,ATTRITION,3
+kiosk 123,Pune,Maharashtra,tek92es,March 2024,PIT AND FISSURE CARIES,1
+kiosk 123,Pune,Maharashtra,tek92es,March 2024,FRACTURE,2
+kiosk 123,Pune,Maharashtra,tek92es,February 2024,SILVER FILLING,1
+kiosk 123,Pune,Maharashtra,tek92es,February 2024,ATTRITION,93
+kiosk 123,Pune,Maharashtra,tek92es,February 2024,INFLAMMED / RED GUMS,18
+kiosk 123,Pune,Maharashtra,tek92es,February 2024,MISSING TOOTH,5
+kiosk 123,Pune,Maharashtra,tek92es,February 2024,ROOT STUMP,6
+kiosk 123,Pune,Maharashtra,tek92es,February 2024,PIT AND FISSURE CARIES,94
+kiosk 123,Pune,Maharashtra,tek92es,February 2024,FRACTURE,17
+kiosk 123,Pune,Maharashtra,tek92es,February 2024,CALCULUS,39
+kiosk 123,Pune,Maharashtra,tek92es,February 2024,STAINS,120
+kiosk 123,Pune,Maharashtra,tek92es,February 2024,DIASTEMA,8
+kiosk 123,Pune,Maharashtra,tek92es,February 2024,TOOTH_GAP,19
+kiosk 123,Pune,Maharashtra,tek92es,February 2024,IMPACTED 3RD MOLAR / PERICORONITIS,14
+kiosk 123,Pune,Maharashtra,tek92es,February 2024,MALALIGNED,161
+kiosk 123,Pune,Maharashtra,tek92es,January 2024,STAINS,1
+kiosk 123,Pune,Maharashtra,tek92es,January 2024,PIT AND FISSURE CARIES,1
+kiosk 123,Pune,Maharashtra,tek92es,January 2024,MALALIGNED,2
+kiosk 123,Pune,Maharashtra,tek92es,January 2024,INFLAMMED / RED GUMS,1
+kiosk 123,Pune,Maharashtra,tek92es,January 2024,TOOTH_GAP,1
+New Kiosk2,City,State,Not available,December 2024,STAINS,4
+New Kiosk2,City,State,Not available,December 2024,FRACTURE,2
+New Kiosk2,City,State,Not available,December 2024,RECEDED GUMS,2
+New Kiosk2,City,State,Not available,December 2024,CALCULUS,4
+New Kiosk2,City,State,Not available,December 2024,INFLAMMED / RED GUMS,2
+New Kiosk2,City,State,Not available,December 2024,MALALIGNED,4
+New Kiosk2,City,State,Not available,December 2024,DIASTEMA,2
+final testing1234,City,State,Not available,December 2024,FRACTURE,1
+final testing1234,City,State,Not available,December 2024,INFLAMMED / RED GUMS,1
+final testing1234,City,State,Not available,December 2024,CALCULUS,1
+final testing1234,City,State,Not available,December 2024,MALALIGNED,1
+final testing1234,City,State,Not available,December 2024,DIASTEMA,1
+final testing1234,City,State,Not available,December 2024,STAINS,1
+final testing1234,City,State,Not available,December 2024,RECEDED GUMS,1

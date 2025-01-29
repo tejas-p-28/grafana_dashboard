@@ -1,0 +1,36 @@
+kiosk,city,disease_list,disease_count,state,geohash
+kiosk 123,Pune,APPLIANCES,10,Maharashtra,tek92es
+kiosk 123,Pune,ATTRITION,7340,Maharashtra,tek92es
+kiosk 123,Pune,BRACES,15,Maharashtra,tek92es
+kiosk 123,Pune,CALCULUS,6675,Maharashtra,tek92es
+kiosk 123,Pune,CROWNS,920,Maharashtra,tek92es
+kiosk 123,Pune,DEEP CARIES,790,Maharashtra,tek92es
+kiosk 123,Pune,DEFECTIVE / PARTIAL TREATMENT,145,Maharashtra,tek92es
+kiosk 123,Pune,DIASTEMA,5160,Maharashtra,tek92es
+kiosk 123,Pune,FILLING,3835,Maharashtra,tek92es
+kiosk 123,Pune,FRACTURE,2720,Maharashtra,tek92es
+kiosk 123,Pune,GROSSLY DECAYED,55,Maharashtra,tek92es
+kiosk 123,Pune,IMPACTED 3RD MOLAR / PERICORONITIS,1000,Maharashtra,tek92es
+kiosk 123,Pune,INFLAMMED / RED GUM,1000,Maharashtra,tek92es
+kiosk 123,Pune,MALALIGNED,12940,Maharashtra,tek92es
+kiosk 123,Pune,MISSING TOOTH,130,Maharashtra,tek92es
+kiosk 123,Pune,PIT AND FISSURE CARIES,9065,Maharashtra,tek92es
+kiosk 123,Pune,RECEDED GUMS,365,Maharashtra,tek92es
+kiosk 123,Pune,ROOT STUMP,105,Maharashtra,tek92es
+kiosk 123,Pune,SILVER FILLING,5,Maharashtra,tek92es
+kiosk 123,Pune,STAINS,15610,Maharashtra,tek92es
+kiosk 123,Pune,TOOTH_GAP,1245,Maharashtra,tek92es
+New Kiosk2,City,CALCULUS,4,State,Not available
+New Kiosk2,City,DIASTEMA,2,State,Not available
+New Kiosk2,City,FRACTURE,2,State,Not available
+New Kiosk2,City,INFLAMMED / RED GUM,2,State,Not available
+New Kiosk2,City,MALALIGNED,4,State,Not available
+New Kiosk2,City,RECEDED GUMS,2,State,Not available
+New Kiosk2,City,STAINS,4,State,Not available
+final testing1234,City,CALCULUS,1,State,Not available
+final testing1234,City,DIASTEMA,1,State,Not available
+final testing1234,City,FRACTURE,1,State,Not available
+final testing1234,City,INFLAMMED / RED GUM,1,State,Not available
+final testing1234,City,MALALIGNED,1,State,Not available
+final testing1234,City,RECEDED GUMS,1,State,Not available
+final testing1234,City,STAINS,1,State,Not available
